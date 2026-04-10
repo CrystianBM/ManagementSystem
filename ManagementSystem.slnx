@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ManagementSystem.Client/ManagementSystem.Client.csproj" />
+  <Project Path="ManagementSystem/ManagementSystem.csproj" />
+</Solution>

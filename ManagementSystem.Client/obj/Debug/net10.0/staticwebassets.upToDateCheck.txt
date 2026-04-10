@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem.Client\wwwroot\appsettings.Development.json
+C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem.Client\wwwroot\appsettings.json
