@@ -225,3 +225,4 @@ C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem\bin\Debug\net10.0\
 C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net10.0\compressed\unlu0xluo6-{0}-eu7w3d5g1a-eu7w3d5g1a.gz
 C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net10.0\compressed\1x45lb54o8-{0}-boiwgh0w5b-boiwgh0w5b.gz
 C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net10.0\compressed\ndfco1oeng-{0}-oylbrvn7ef-oylbrvn7ef.gz
+C:\Users\cbm20\source\repos\ManagementSystem\ManagementSystem\obj\Debug\net10.0\ManagementSystem.sourcelink.json

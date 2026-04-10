@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem.client\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|solutionrelative:managementsystem.client\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem.client\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|solutionrelative:managementsystem.client\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem.client\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|solutionrelative:managementsystem.client\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem.client\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|solutionrelative:managementsystem.client\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{362DB450-6CDA-4B23-A1D4-F09ACCFDCA51}|ManagementSystem.Client\\ManagementSystem.Client.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\cbm20\\source\\repos\\managementsystem\\managementsystem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59CC7CAE-799D-4414-8B64-1542CEBFFA85}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,24 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "ManagementSystem.Client\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Pages\\Products.razor",
+              "RelativeToolTip": "ManagementSystem.Client\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T02:36:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ManagementSystem\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "ManagementSystem\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-10T00:45:52.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Models\\ProductDto.cs",
               "RelativeDocumentMoniker": "ManagementSystem.Client\\Models\\ProductDto.cs",
@@ -88,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Controllers\\ProductController.cs",
@@ -101,20 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Products.razor",
-              "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Pages\\Products.razor",
-              "RelativeDocumentMoniker": "ManagementSystem.Client\\Pages\\Products.razor",
-              "ToolTip": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Pages\\Products.razor",
-              "RelativeToolTip": "ManagementSystem.Client\\Pages\\Products.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T00:07:40.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Program.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Application\\ProductService.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Application\\ProductService.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Infraestructure\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Infraestructure\\ProductRepository.cs",
@@ -153,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Application\\ProductDto.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Application\\ProductDto.cs",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Data\\AppDbContext.cs",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "ManagementSystem\\Domain\\Product.cs",
@@ -192,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ProductApiService.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Services\\ProductApiService.cs",
               "RelativeDocumentMoniker": "ManagementSystem.Client\\Services\\ProductApiService.cs",
@@ -205,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cbm20\\source\\repos\\ManagementSystem\\ManagementSystem.Client\\Program.cs",
               "RelativeDocumentMoniker": "ManagementSystem.Client\\Program.cs",
